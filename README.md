@@ -1,1 +1,2 @@
-# myHGUCoursePatternAnalyzer
+# HGUCoursePatternAnalyzer
+HGU Course Pattern Analyzer
